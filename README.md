@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# text-analyzer
-=======
+
 # Text Analyzer
 
 Analyzes text files - counts words, calculates stats, generates reports.
@@ -123,4 +121,3 @@ did, will, would, could, should, may
 **Empty results** - might be all stop words or short words, try `stop_words=[]`
 
 **Import errors** - make sure venv is activated, run from project root
->>>>>>> 2bc9d26 (initial commit)
