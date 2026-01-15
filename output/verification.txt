@@ -1,0 +1,29 @@
+TEXT ANALYSIS REPORT
+====================
+File: sample_text.txt
+Generated: 2026-01-13 21:03:44
+
+STATISTICS
+----------
+Total Words: 1001
+Unique Words: 663
+Average Word Length: 7.24
+Longest Word: deserialization
+Most Frequent Word: code (20 occurrences)
+
+TOP 10 MOST FREQUENT WORDS
+---------------------------
+1. code - 20 occurrences
+2. data - 16 occurrences
+3. that - 12 occurrences
+4. development - 11 occurrences
+5. for - 10 occurrences
+6. functions - 8 occurrences
+7. changes - 7 occurrences
+8. multiple - 7 occurrences
+9. developers - 6 occurrences
+10. access - 5 occurrences
+
+WORDS STARTING WITH 'A'
+------------------------
+about, abstraction, accept, access, accessed, accumulates, across, adaptation, adds, affect, against, aggregation, agile, alerting, algorithms, alike, all, allocation, allow, allows, almost, along, analysis, android, any, apis, applications, approach, approachable, appropriately, apps, architecture, arguments, around, arrays, aspect, assembly, assigns, asynchronous, attackers, attacks, audits, authenticated, authentication, authorization, automate, automated, automatically, availability, avoid

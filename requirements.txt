@@ -1,0 +1,18 @@
+# Text Analyzer Project Dependencies
+# Python 3.8+ required
+
+# Testing framework
+pytest>=7.4.0,<8.0.0
+
+# Code coverage reporting
+pytest-cov>=4.1.0,<5.0.0
+
+# Type checking (optional but recommended)
+mypy>=1.5.0,<2.0.0
+
+# Code formatting (optional but recommended)
+black>=23.0.0,<24.0.0
+
+# Linting (optional but recommended)
+flake8>=6.1.0,<7.0.0
+
